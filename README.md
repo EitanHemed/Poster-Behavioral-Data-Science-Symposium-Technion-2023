@@ -1,5 +1,5 @@
 # Technion-Behavioral-Data-Science-Symposium-2023-
-Poster titled __TRACKING THE DEVELOPMENT OF GOAL-DIRECTED MOVEMENT__, presented at the [1<sup>st</sup> Technion Behavioral Data Science Symposium](https://idsi.net.technion.ac.il/technion-behavioral-data-science-symposium-registration-information/) (1/1/23).
+Poster titled *Tracking the development of goal-directed movement*, presented at the [1<sup>st</sup> Technion Behavioral Data Science Symposium](https://idsi.net.technion.ac.il/technion-behavioral-data-science-symposium-registration-information/) (1/1/23).
 
 
 Eitan Hemed<sup>**1,^**</sup>, Tal Roth<sup>**1**</sup> , Sagi Jaffe-Dax<sup>**2**</sup>, Hagit Hel-Or<sup>**3**</sup> & Baruch Eitam<sup>**1**</sup>
@@ -15,8 +15,9 @@ Hemed, E., Roth, T., Jaffe-Dax, S., Hel-Or, H., & Eitam, B., (2023). Tracking th
 
 -----
 
+🚧**TODO - ADD ABSTRACT TEXT**🚧
 
-
-🚧**TODO - ADD POSTER IMAGE HERE**🚧
+-----
+🚧**TODO - ADD POSTER IMAGE **🚧
 
 
