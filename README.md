@@ -18,6 +18,6 @@ Hemed, E., Roth, T., Jaffe-Dax, S., Hel-Or, H., & Eitam, B., (2023). Tracking th
 🚧**TODO - ADD ABSTRACT TEXT**🚧
 
 -----
-🚧**TODO - ADD POSTER IMAGE **🚧
+🚧**TODO - ADD POSTER IMAGE**🚧
 
 
