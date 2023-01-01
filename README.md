@@ -9,14 +9,14 @@ Eitan Hemed<sup>**1,^**</sup>, Tal Roth<sup>**1**</sup> , Sagi Jaffe-Dax<sup>**2
 **Affiliations:** <sup>**1**</sup>Department of Psychology, University of Haifa; <sup>**2**</sup>School of Psychological sciences, Tel Aviv University; <sup>**3**</sup>Department of Computer Science, University of Haifa
 
 -----
-**To cite:**
-
-Hemed, E., Roth, T., Jaffe-Dax, S., Hel-Or, H., & Eitam, B., (2023). Tracking the development of goal-directed movement. In the 1st Behavioral Data Science Sympostion, Technion. 
-
------
 ### Example Output
 A 3-month old participant, here [MediaPipe](https://google.github.io/mediapipe/) is used as a benchmark pose estimation solution. 
+
 ![](example_output.gif)
+
+-----
+### Get the poster [here](poster_tracking_the_development_of_goal_directed_movement.pdf)
+![](poster_image.png)
 
 
 -----
@@ -25,9 +25,9 @@ The project is a work in progress, which aims to characterize the development of
 The current work will utilize a large dataset of videos of infants at the ages of 2-6 months, freely playing with a toy-mobile in their parents’ homes, currently being collected. Given the dataset, we will use marker-less pose estimation methods to extract information about infant movements from the videos and identify age-related changes in movements. First, we will attempt to replicate previous findings relating to characteristics of movements at different ages (e.g., interlimb joint coordination), following which, we will explore the data for patterns which were not previously documented, but may occur in naturalistic settings when the infant is not constrained (e.g., limb independence; persistence in movement; different reaching based on end-goal as touching VS. hitting; etc.). The high ecological validity of the project is novel, enabling the potential to document general and replicable patterns, thus making it more impactful than a structured lab study.
 Finally, while the motivation for previous studies was primarily oriented towards clinical screening, the proposed project will tap the development and underlying mechanisms of the ability to perceive control over the physical environment (see below), and its relation to sensorimotor-predictable feedback (e.g., feedback from the toy mobile) being rewarding independently of any tangible outcomes. Understanding how we develop the ability to perceive our own control over the environment and act volitionally, can shed light on the maturation of the reward system.
 
------
-### Materials
-1. 🚧**TODO - ADD EXAMPLE VIDEO**🚧
-2. 🚧**TODO - ADD POSTER IMAGE**🚧
 
+-----
+**To cite:**
+
+Hemed, E., Roth, T., Jaffe-Dax, S., Hel-Or, H., & Eitam, B., (2023). Tracking the development of goal-directed movement. In the 1st Behavioral Data Science Sympostion, Technion. 
 
