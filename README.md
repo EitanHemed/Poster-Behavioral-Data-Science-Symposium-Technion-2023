@@ -16,7 +16,8 @@ A 3-month old participant, here [MediaPipe](https://google.github.io/mediapipe/)
 
 -----
 ### Get the poster [here](poster_tracking_the_development_of_goal_directed_movement.pdf)
-![](poster_image.png)
+
+![](resized_image.png)
 
 
 -----
