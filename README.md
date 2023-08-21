@@ -19,10 +19,13 @@ A 3-month old participant, here [MediaPipe](https://google.github.io/mediapipe/)
 
 -----
 ### Funding
-This research is supported by a dataset collection grant from the Data Science Research Center (DSRC) at the University of Haifa. 
+This research is supported by a dataset collection grant from the [Data Science Research Center (DSRC)](https//dsrc.haifa.ac.il) at the University of Haifa. 
 <div align="center">
-<img src="DSRC-logo.png" alt="Logo" width="200"/>
+  <a href="https://dsrc.haifa.ac.il/">
+    <img src="DSRC-logo.png" alt="Logo" width="200"/>
+  </a>
 </div>
+
 
 -----
 ### Abstract
