@@ -1,4 +1,4 @@
-# Technion-Behavioral-Data-Science-Symposium-2023-
+# Technion-Behavioral-Data-Science-Symposium-2023
 Poster titled *Tracking the development of goal-directed movement*, presented at the [1<sup>st</sup> Technion Behavioral Data Science Symposium](https://idsi.net.technion.ac.il/technion-behavioral-data-science-symposium-registration-information/) (01/01/2023).
 
 
@@ -16,6 +16,16 @@ A 3-month old participant, here [MediaPipe](https://google.github.io/mediapipe/)
 
 -----
 ### Get the poster [here](poster_tracking_the_development_of_goal_directed_movement.pdf)
+
+-----
+### Funding
+This research is supported by a dataset collection grant from the [Data Science Research Center (DSRC)](https//dsrc.haifa.ac.il) at the University of Haifa. 
+<div align="center">
+  <a href="https://dsrc.haifa.ac.il/">
+    <img src="DSRC-logo.png" alt="Logo" width="200"/>
+  </a>
+</div>
+
 
 -----
 ### Abstract
